@@ -28,19 +28,19 @@ The screenshot includes the test coverage results associated with the new/change
 
 ## Feature PRD
 
+
 ### Subgroup
- - Nome, istID, githubID
-   + Issues assigned: [#1](https://github.com), [#3](https://github.com)
- - Nome, istID, githubID
-   + Issues assigned: [#2](https://github.com), [#4](https://github.com)
- 
+ - Manuel Carneiro, 89927, manuelmcarneiro / ManuelCarneiro
+   + Issues assigned: [#3](https://github.com/tecnico-softeng-2022/es22-42/issues/3), [#10](https://github.com/tecnico-softeng-2022/es22-42/issues/10), [#16] (https://github.com/tecnico-softeng-2022/es22-42/issues/16), [#26] (https://github.com/tecnico-softeng-2022/es22-42/issues/26)
+ - Vasco Veloso, 87568, vascoveloso
+   + Issues assigned: [#6](https://github.com/tecnico-softeng-2022/es22-42/issues/6), [#17](https://github.com/tecnico-softeng-2022/es22-42/issues/17)
+   
 ### Pull requests associated with this feature
 
 The list of pull requests associated with this feature is:
 
- - [PR #000](https://github.com)
- - [PR #001](https://github.com)
- - [PR #002](https://github.com)
+ - [PR #027](https://github.com/tecnico-softeng-2022/es22-42/pull/27)
+
 
 
 ### Test Coverage Screenshot
